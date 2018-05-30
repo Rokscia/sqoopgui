@@ -1,0 +1,2 @@
+# sqoopgui
+Baigiamasis bakalauro darbas
